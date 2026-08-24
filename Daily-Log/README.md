@@ -26,3 +26,99 @@ Daily-Log 主要用于：
 
 学习流程：
 
+- 学习新知识
+- 记录到日志
+- 提炼要点
+- 整理在知识库
+- 能够应用到项目
+
+表示：
+
+2026年8月23日的学习记录。
+
+
+---
+
+# Daily Learning Template
+
+每日记录建议按照以下结构：
+
+
+```markdown
+# YYYY-MM-DD
+
+
+## Today's Learning
+
+记录今天学习的主要内容。
+
+例如：
+
+- 模拟电子技术：反馈电路分析
+- 电力电子：Buck拓扑学习
+- C2000：PWM模块配置
+
+
+---
+
+
+## Key Understanding
+
+记录今天最重要的新理解。
+
+例如：
+
+> MOSFET虽然是电压控制器件，
+> 但高速开关时需要考虑栅极电荷和驱动能力。
+
+
+---
+
+
+## Problems & Questions
+
+记录今天遇到的问题。
+
+例如：
+
+- 为什么高侧MOS需要Bootstrap？
+- 为什么MCU不能直接驱动功率MOS？
+
+
+---
+
+
+## Solutions & Discussion
+
+记录：
+
+- AI分析
+- 查阅资料后的理解
+- 实验验证结果
+
+
+---
+
+
+## Knowledge To Organize
+
+记录后续需要整理到 Knowledge 的内容。
+
+
+例如：
+
+- MOS Driver
+- Buck Converter
+- Feedback Control
+
+
+---
+
+
+## Reflection
+
+记录今天的学习总结：
+
+- 学到了什么？
+- 哪些地方仍然薄弱？
+- 下一步计划是什么？
